@@ -3,3 +3,4 @@ deployment:
  tasks:
  - export DEPLOYPATH=/home/user/public_html/dashboard/
  - /bin/cp -R * $DEPLOYPATH
+ 
