@@ -3,4 +3,4 @@ deployment:
  tasks:
  - export DEPLOYPATH=/home/sptsteml/public_html/dashboard/
  - /bin/cp index.html $DEPLOYPATH
-- /bin/cp login.html $DEPLOYPATH
+- /bin/cp app.html $DEPLOYPATH
