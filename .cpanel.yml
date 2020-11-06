@@ -2,4 +2,4 @@
 deployment:
  tasks:
  - export DEPLOYPATH=/home/sptsteml/public_html/dashboard/
-  - /bin/cp  public/stylesheets/style.css $DEPLOYPATH 
+ - /bin/cp -R * $DEPLOYPATH
