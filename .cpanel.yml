@@ -2,5 +2,5 @@
 deployment:
  tasks:
  - export DEPLOYPATH=/home/sptest1/public_html/
- - /bin/cp -R * $DEPLOYPATH
+ - /bin/cp -fr * $DEPLOYPATH
 
