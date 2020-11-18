@@ -1,6 +1,6 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/sptest1/public_html/dashboard/
+ - export DEPLOYPATH=/home/sptest1/public_html/
  - /bin/cp -R * $DEPLOYPATH
 
